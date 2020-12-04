@@ -1,0 +1,12 @@
+#box2{
+	width: 40%;
+	padding: 40px;
+	margin-left: 30px;
+	box-shadow: 0px 15px 35px rgba(50,50,93,0.15);
+	border-radius: 4px;
+	height: 700px;
+}
+
+#service{
+		text-align: center;		
+}

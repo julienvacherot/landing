@@ -1,0 +1,13 @@
+#reseau{
+	list-style: none;
+	padding-left: 0px;
+}
+
+#reseau li{
+	display: inline;
+	padding: 25px;
+}
+
+#reseau i{
+	font-size: 45px;
+}

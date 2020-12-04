@@ -1,0 +1,2 @@
+[1124/085857.564:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1124/130632.290:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\vache\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\38bc2643-64a6-46aa-a2a8-f15ee434433f: Le chemin d’accès spécifié est introuvable. (0x3)

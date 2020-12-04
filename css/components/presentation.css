@@ -1,0 +1,27 @@
+#presentation{
+	padding: 20px;
+	margin: 30px;
+	box-shadow: 0px 15px 35px rgba(50,50,93,0.15);
+	border-radius: 4px;
+}
+
+#lienfft{ 
+	text-align: center;
+	font-size: 19px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+#bienvenue{
+font-family: 'Source Sans Pro', sans-serif;
+color: #302f2f;
+}
+
+#soustitre{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	padding: 5px;
+	margin: 30px;
+	box-shadow: 0px 15px 35px rgba(50,50,93,0.15);
+	border-radius: 4px;
+	}
